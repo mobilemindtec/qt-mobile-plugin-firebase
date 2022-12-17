@@ -1,0 +1,8 @@
+.idea
+.qmake.stash
+.qtc_clangd/
+QtMobilePluginFirebase.pro.user.*
+build/
+builds/
+.gradle
+

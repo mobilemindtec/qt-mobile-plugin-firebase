@@ -1,0 +1,6 @@
+#ifndef QTMOBILEFIREBASEGLOBAL_H
+#define QTMOBILEFIREBASEGLOBAL_H
+
+#include <QtMobilePlugin/QtMobilePluginMime>
+
+#endif // QTMOBILEFIREBASEGLOBAL_H
